@@ -34,15 +34,15 @@ Built with ❤️ using HTML, CSS, and JavaScript (Manifest v3).
 
 ## 📦 Project Structure
 
-tab-title-extension/
-├── images
-├── app.js
-├── background.js
-├── index.html
-├── manifest.json
-├── style.css
-├── popup-preview
-└── README.md
+tab-title-extension/ <br>
+├── images <br>
+├── app.js <br>
+├── background.js <br>
+├── index.html <br>
+├── manifest.json <br>
+├── style.css <br>
+├── popup-preview <br>
+└── README.md <br>
 
 ---
 
